@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/project-Verified%20Blockchain%20Infra-orange)
 ![Deployed](https://img.shields.io/badge/deployed-AWS-blue)
 ![Deployed](https://img.shields.io/badge/deployed-Cloudflare-orange)
-![Deployed](https://img.shields.io/badge/deployed-OpenAI-black)
+![Deployed](https://img.shields.io/badge/deployed-OpenAI-black) 
 
 # AgroCrypto Trust Framework (ATF)
 

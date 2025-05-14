@@ -61,3 +61,4 @@ Essa divisão AIaaS opera com a missão de democratizar o acesso à inteligênci
 ## 📜 License
 
 Licensed under the AGPL-3.0. See [`LICENSE`](./LICENSE).
+Trigger oficial do Pair Extraordinaire badge.

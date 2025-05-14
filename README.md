@@ -62,3 +62,4 @@ Essa divisão AIaaS opera com a missão de democratizar o acesso à inteligênci
 
 Licensed under the AGPL-3.0. See [`LICENSE`](./LICENSE).
 AgroCrypto confia na colaboração.
+Linha extra para validação do badge Pair Extraordinaire.
